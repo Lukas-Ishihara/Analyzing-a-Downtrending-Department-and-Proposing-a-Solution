@@ -17,4 +17,4 @@ Analyzed a $1.6M revenue decline using SQL to identify structural root causes an
 - Proved 99% of users would not meet incentive thresholds, saving the department from a failed investment and adjusting to a low-cost VIP status system.
 
 ## Files
-- [SQL Query – Retention Logic](Reversing_a_Declining_Department.sql)  
+- [SQL Queries (8) – Problem to Solution Analysis](Reversing_a_Declining_Department.sql)  
